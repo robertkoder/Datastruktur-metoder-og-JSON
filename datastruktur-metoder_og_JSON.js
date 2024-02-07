@@ -57,11 +57,11 @@ const peopleArrayWithObjects = [
 */
 
 //! 1.3
-/* console.log the hobbies of the first person using Object.entries (tip: this is unnecessary code, but do it just to see the difference with what needs to be done later). Expected output is to be an array with 4 elements */
+/* console.log the hobbies of the first person using Object.entries. Expected output is to be an array with 4 elements */
 
 //! 1.4
 
-/* Use .map instead of Object.entries to achieve the same result in the console as in 1.2: */
+/* Use .map instead of Object.entries to achieve the same result in the console as in 1.3: */
 
 //! 1.5.
 
