@@ -69,7 +69,7 @@ const peopleArrayWithObjects = [
 
 //! 1.6.
 
-/* Use .map to display all the persons with their information on their page with the DOM. It should also show what hobbies they have in common. Choose whether to use createElement or innerHTML. (Great if you do it both ways, comment out the unused code. Remember to use defer if the script tag is in the head!) */
+/* Use .map to display all the persons with their information on your page DOM manipulation (look at the shared repo of the lessons in the js file mappedOutArray.js for tips). It should also show what hobbies they have in common. Choose whether to use createElement or innerHTML. (Great if you do it both ways, comment out the unused code. Remember to use defer if the script tag is in the head!) */
 
 //! 1.7
 
