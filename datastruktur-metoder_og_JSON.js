@@ -73,7 +73,7 @@ const peopleArrayWithObjects = [
 
 //! 1.7
 
-/* Use .filter to find all persons who have atleast 1 hobby that is the same hobbies as firstPerson. Display this using DOM */
+/* Use .filter to find all persons who have atleast 1 hobby that is the same hobbies as firstPerson. Display this using DOM manipulation */
 
 //! 2
 
